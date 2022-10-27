@@ -60,7 +60,7 @@
     
     editormd.title        = editormd.$name = "Editor.md";
     editormd.version      = "1.5.0";
-    editormd.homePage     = "https://pandao.github.io/editor.md/";
+    editormd.homePage     = "https://markdown.eplus.dev";
     editormd.classPrefix  = "editormd-";
     
     editormd.toolbarModes = {
