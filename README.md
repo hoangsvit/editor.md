@@ -21,7 +21,7 @@
 - Support [TeX (LaTeX expressions, Based on KaTeX)](https://markdown.eplus.dev/examples/katex.html), [Flowchart]https://markdown.eplus.dev/examples/flowchart.html) and [Sequence Diagram](https://markdown.eplus.dev/examples/sequence-diagram.html) of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 
-[README & Examples (English)](https://markdown.eplus.dev/en.html)
+[README & Examples (English)](https://markdown.eplus.dev/)
   
 
 --------
