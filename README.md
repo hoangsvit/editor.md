@@ -17,8 +17,8 @@
 - Full-featured: Real-time Preview, Image (cross-domain) upload, Preformatted text/Code blocks/Tables insert, Code fold, Search replace, Read only, Themes, Multi-languages, L18n, HTML entities, Code syntax highlighting...;
 - Markdown Extras : Support [ToC (Table of Contents)](https://markdown.eplus.dev/examples/toc.html), [Emoji](https://markdown.eplus.dev/examples/emoji.html), [Task lists](https://markdown.eplus.dev/examples/task-lists.html), [@Links](https://markdown.eplus.dev/examples/@links.html)...;
 - Compatible with all major browsers (IE8+), compatible Zepto.js and iPad;
-- Support [decode & fliter of the HTML tags & attributes](https://markdown.eplus.devexamples/html-tags-decode.html);
-- Support [TeX (LaTeX expressions, Based on KaTeX)](https://markdown.eplus.dev/editor.md/examples/katex.html), [Flowchart]https://markdown.eplus.dev/examples/flowchart.html) and [Sequence Diagram](https://markdown.eplus.dev/examples/sequence-diagram.html) of Markdown extended syntax;
+- Support [decode & fliter of the HTML tags & attributes](https://markdown.eplus.dev/examples/html-tags-decode.html);
+- Support [TeX (LaTeX expressions, Based on KaTeX)](https://markdown.eplus.dev/examples/katex.html), [Flowchart]https://markdown.eplus.dev/examples/flowchart.html) and [Sequence Diagram](https://markdown.eplus.dev/examples/sequence-diagram.html) of Markdown extended syntax;
 - Support AMD/CMD (Require.js & Sea.js) Module Loader, and Custom/define editor plugins;
 
 [README & Examples (English)](https://markdown.eplus.dev/en.html)
@@ -118,7 +118,7 @@ Sorry, Editor.md not support HTML to Markdown parsing, Maybe In the future.
 
 #### Examples
 
-[https://pandao.github.io/editor.md/examples/index.html](https://pandao.github.io/editor.md/examples/index.html)
+[https://markdown.eplus.dev/examples/index.html](https://markdown.eplus.dev/examples/index.html)
 
 #### Options
 
